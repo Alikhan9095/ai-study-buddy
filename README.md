@@ -21,3 +21,27 @@ AI Study Buddy is an intelligent learning tool that helps students, professional
 3.  Cross-platform: Start with a CLI tool, later extend to a Web UI.
 4.  Customizable & extendable: Add AI features, reminders, or analytics.
 5.  Future monetization potential: Can be turned into a subscription-based SaaS or premium AI service.
+
+   ###Tech Stack
+
+- Programming Language: Python (ideal for AI and CLI apps)
+- CLI Library: Typer / Click
+-   AI Integration: OpenAI GPT / HuggingFace Models
+    #Phase 1: Set up your environment
+
+- Install Python 3 on your system.
+-  Create a virtual environment:
+
+  ```
+sudo apt update
+sudo apt install python3-venv
+cd ~/ai-study-buddy
+python3 -m venv venv
+source venv/bin/activate
+
+```
+Install required libraries:
+```
+ pip install typer openai
+```
+
