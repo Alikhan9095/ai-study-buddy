@@ -10,8 +10,6 @@ AI Study Buddy is an intelligent learning tool that helps students, professional
 
 - Task & quiz generation: AI generates actionable study tasks or quizzes.
 
-- Git integration: Auto-commit notes, manage branches, and track history.
-
 - Search & filter: Quickly find notes by keyword, topic, or date.
 
 
