@@ -1,6 +1,7 @@
 ## : AI Study Buddy
 # Project Summary: 
 AI Study Buddy is an intelligent learning tool that helps students, professionals, and self-learners organize, summarize, and enhance their study notes using Artificial Intelligence.
+(other tools like Quizlet, Notion AI, or Anki)
 
 ## Core Features
 
